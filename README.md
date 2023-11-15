@@ -9,6 +9,7 @@ List of open source virtual pinball projects. Inspired by [awesome](https://gith
 * [DirectOutput](https://github.com/mjrgh/DirectOutput) - DirectOutput is an add-in for Visual Pinball and other programs that provides software control over external feedback devices in a virtual pinball cabinet. [C#]
 * [dmd-extensions](https://github.com/freezy/dmd-extensions) - A toolbox for virtual pinball dot matrix displays. [C#]
 * [flexdmd](https://github.com/vbousquet/flexdmd) - A DMD renderer for Visual Pinball original tables. [VBScript/C#]
+* [Mission Pinball Framework](https://github.com/missionpinball) - The Mission Pinball Framework (MPF) is a free and open-source software platform designed to control modern pinball machines. [Python]
 * [PinballFXLauncher](https://github.com/joyrider3774/PinballFXLauncher) - A Launch Autohotkey script for pinball FX that adds per table launching support. (AutoHotKey)
 * [PinballY](https://github.com/mjrgh/PinballY) - Frontend for virtual pinball emulators. [C, C++]
 * [PinMAME](https://github.com/vpinball/pinmame) - Pinball Multiple Arcade Machine Emulator [C]
