@@ -48,7 +48,7 @@ List of open source virtual pinball projects. Inspired by [awesome](https://gith
 * [vpxtable_scripts](https://github.com/sverrewl/vpxtable_scripts) - Mostly pre VPX 10.4 table scripts with misc updates. [VBScript]
 * [vpxtool](https://github.com/francisdb/vpxtool) - Terminal based utilities for Visual Pinball, includes a frontend. [Rust]
 * [wpc-emu](https://github.com/neophob/wpc-emu) - Williams Pinball machine emulator, Play it at [playfield.dev](https://playfield.dev/)  [JavaScript]
-* [wpc-emu-cs](https://github.com/jsm174/wpc-emu-cs) - C# port of neophob's amazing wpc-emu
+* [wpc-emu-cs](https://github.com/jsm174/wpc-emu-cs) - C# port of neophob's amazing wpc-emu [C#]
 * [WPCResources](https://github.com/tanseydavid/WPCResources) - Links, notes and other resources about WPC internals
 * [ZeDMD](https://github.com/PPUC/ZeDMD) - A real DMD for virtual pinball machines and PPUC driven real pinball machines. [C, C++]
 
