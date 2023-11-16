@@ -21,6 +21,7 @@ List of open source virtual pinball projects. Inspired by [awesome](https://gith
 * [Mission Pinball Framework](https://github.com/missionpinball) - The Mission Pinball Framework (MPF) is a free and open-source software platform designed to control modern pinball machines. [Python]
 * [PinAffinity](https://github.com/mjrgh/PinAffinity) - Simple CPU Affinity setter for virtual pin cabs [C++]
 * [PinballFXLauncher](https://github.com/joyrider3774/PinballFXLauncher) - A Launch Autohotkey script for pinball FX that adds per table launching support. [AutoHotKey]
+* [Pinball Parts](https://github.com/vbousquet/pinball-parts) - Blender Pinball Parts library
 * [PinballY](https://github.com/mjrgh/PinballY) - Frontend for virtual pinball emulators. [C, C++]
 * [PinCab Configurator](https://github.com/xantari/PinCab.Configurator) - A Game and System Manager for Virtual Pinball Cabinet and Desktop users [C#]
 * [Pincab Led Strip](https://github.com/aetios50/PincabLedStrip) - Code to use LedStrip with an Arduino connected to a Ledwiz or similar. [C++]
@@ -45,6 +46,7 @@ List of open source virtual pinball projects. Inspired by [awesome](https://gith
 * [VPS DB](https://github.com/Fraesh/vps-db) - Official Virtual Pinball Spreadsheet database [JSON]
 * [VPX Display Server (vpxds)](https://github.com/jsm174/vpxds) - Small app I put together while working on my Visual Pinball Standalone cabinet. [C++]
 * [vpx-js](https://github.com/vpdb/vpx-js) - Visual Pinball in the Browser [TypeScript]
+* [ Visual Pinball X Lightmapper](https://github.com/vbousquet/vpx_lightmapper) - A Blender add-on to help building pretty baked tables. Also named Blender Toolkit. [Python]
 * [VPX-VBS-Extractor](https://github.com/lempface/VPX-VBS-Extractor) - A utility for bulk extracting .VBS scripts from Visual Pinball X table files [C#]
 * [vpx-standalone-scripts](https://github.com/jsm174/vpx-standalone-scripts) - Table patches for VPX Standalone [VBScript]
 * [vpxtable_scripts](https://github.com/sverrewl/vpxtable_scripts) - Mostly pre VPX 10.4 table scripts with misc updates. [VBScript]
