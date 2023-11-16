@@ -37,6 +37,8 @@ List of open source virtual pinball projects. Inspired by [awesome](https://gith
 * [VirtualPinball.Database.Models](https://github.com/xantari/VirtualPinball.Database.Models) - Virtual Pinball Database Model database schema in C#. [C#]
 * [Visual Pinball](https://github.com/vpinball/vpinball) - Visual Pinball is a video game engine for pinball tables. [C++, VBScript]
 * [VisualPinball.Engine](https://github.com/freezy/VisualPinball.Engine) - Visual Pinball Engine (VPE) for Unity [C#]
+* [VPDB Website](https://github.com/vpdb/website) - A database for Virtual Pinball tables. The web application [Typescript/JavaScript]
+* [VPDB Server](https://github.com/vpdb/server) - A database for Virtual Pinball tables. The VPDB RESTful API. [Typescript/JavaScript]
 * [vpin](https://github.com/francisdb/vpin) - Library for handling Visual Pinball `vpx` and `directb2s` files. [Rust]
 * [VPinballX.starter](https://github.com/JockeJarre/VPinballX.starter) - Small tool to start the right VPinballX version depending on the table file. [C#]
 * [vpin-studio](https://github.com/syd711/vpin-studio) - Competition, table, and player management for VPins. [Java]
