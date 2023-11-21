@@ -42,6 +42,7 @@ List of open source virtual pinball projects. Inspired by [awesome](https://gith
 * [vpin](https://github.com/francisdb/vpin) - Library for handling Visual Pinball `vpx` and `directb2s` files. [Rust]
 * [VPinballX.starter](https://github.com/JockeJarre/VPinballX.starter) - Small tool to start the right VPinballX version depending on the table file. [C#]
 * [vpin-extensions](https://github.com/syd711/vpin-extensions) - An extension for Visual Pinball players using PinUP Popper, provides highscore card generation, etc. [Java]
+* [VPinMAME_SPA](https://github.com/JayFoxRox/VPinMAME_SPA) - VPinMAME fork with support for Stern Pinball Arcade (SPA) emulation-DLLs
 * [vpin-studio](https://github.com/syd711/vpin-studio) - Competition, table, and player management for VPins. [Java]
 * [Vpin Workshop Code Formatter](https://gitlab.com/PDStig/vpin-workshop-code-formatter) - Website where Visual Pinball X table authors can format their VBS code to meet a nice readable standard. [JavaScript]
 * [Vpin Workshop Scripts](https://gitlab.com/PDStig/vpin-workshop-scripts) - A repository of useful VBS scripts / libraries others can use in their Visual Pinball X tables. [VBScript]
