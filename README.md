@@ -22,6 +22,7 @@ List of open source virtual pinball projects. Inspired by [awesome](https://gith
 * [PinAffinity](https://github.com/mjrgh/PinAffinity) - Simple CPU Affinity setter for virtual pin cabs [C++]
 * [PinballFXLauncher](https://github.com/joyrider3774/PinballFXLauncher) - A Launch Autohotkey script for pinball FX that adds per table launching support. [AutoHotKey]
 * [Pinball Parts](https://github.com/vbousquet/pinball-parts) - Blender Pinball Parts library
+* [PinballX Launcher app](https://github.com/joyrider3774/PinballX_Launcher_app) - A PinballX Launcher app to specify parameters for the launched application. (Defaults to pinball FX3 classic / multiplayer selection) [Pascal]
 * [PinballY](https://github.com/mjrgh/PinballY) - Frontend for virtual pinball emulators. [C, C++]
 * [PinCab Configurator](https://github.com/xantari/PinCab.Configurator) - A Game and System Manager for Virtual Pinball Cabinet and Desktop users [C#]
 * [Pincab Led Strip](https://github.com/aetios50/PincabLedStrip) - Code to use LedStrip with an Arduino connected to a Ledwiz or similar. [C++]
@@ -42,7 +43,7 @@ List of open source virtual pinball projects. Inspired by [awesome](https://gith
 * [vpin](https://github.com/francisdb/vpin) - Library for handling Visual Pinball `vpx` and `directb2s` files. [Rust]
 * [VPinballX.starter](https://github.com/JockeJarre/VPinballX.starter) - Small tool to start the right VPinballX version depending on the table file. [C#]
 * [vpin-extensions](https://github.com/syd711/vpin-extensions) - An extension for Visual Pinball players using PinUP Popper, provides highscore card generation, etc. [Java]
-* [VPinMAME_SPA](https://github.com/JayFoxRox/VPinMAME_SPA) - VPinMAME fork with support for Stern Pinball Arcade (SPA) emulation-DLLs
+* [VPinMAME SPA](https://github.com/JayFoxRox/VPinMAME_SPA) - VPinMAME fork with support for Stern Pinball Arcade (SPA) emulation-DLLs
 * [vpin-studio](https://github.com/syd711/vpin-studio) - Competition, table, and player management for VPins. [Java]
 * [Vpin Workshop Code Formatter](https://gitlab.com/PDStig/vpin-workshop-code-formatter) - Website where Visual Pinball X table authors can format their VBS code to meet a nice readable standard. [JavaScript]
 * [Vpin Workshop Scripts](https://gitlab.com/PDStig/vpin-workshop-scripts) - A repository of useful VBS scripts / libraries others can use in their Visual Pinball X tables. [VBScript]
