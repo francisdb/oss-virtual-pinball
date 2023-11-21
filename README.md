@@ -19,6 +19,7 @@ List of open source virtual pinball projects. Inspired by [awesome](https://gith
 * [libserum](https://github.com/zesinger/libserum) - This is a cross-platform library for decoding `Serum` files, a colorization format for pinball ROMs. [C++]
 * [libzedmd](https://github.com/PPUC/libzedmd) - ZeDMD communication library [C++]
 * [Mission Pinball Framework](https://github.com/missionpinball) - The Mission Pinball Framework (MPF) is a free and open-source software platform designed to control modern pinball machines. [Python]
+* [Mouse plunger](https://github.com/Billiam/mouse-plunger) - Mouse control for the Visual Pinball X plunger, using vJoy [Go]
 * [PinAffinity](https://github.com/mjrgh/PinAffinity) - Simple CPU Affinity setter for virtual pin cabs [C++]
 * [PinballFXLauncher](https://github.com/joyrider3774/PinballFXLauncher) - A Launch Autohotkey script for pinball FX that adds per table launching support. [AutoHotKey]
 * [Pinball Parts](https://github.com/vbousquet/pinball-parts) - Blender Pinball Parts library
